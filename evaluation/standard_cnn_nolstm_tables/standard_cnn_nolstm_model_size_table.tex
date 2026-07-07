@@ -1,0 +1,16 @@
+\begin{table}[t]
+  \centering
+  \small
+  \caption{Model size of the pure CNN baseline. Parameter counts are taken directly from the saved checkpoints. The 4-bit size is an estimated weight-only storage cost.}
+  \label{tab:standard_cnn_nolstm_size_wear}
+  \begin{tabular}{lrrr}
+    \toprule
+    Rate & Parameters & FP32 MB & 4-bit MB \\
+    \midrule
+    6 Hz & 39,571 & 0.158 & 0.020 \\
+    12 Hz & 51,923 & 0.208 & 0.026 \\
+    25 Hz & 101,331 & 0.405 & 0.051 \\
+    50 Hz & 126,035 & 0.504 & 0.063 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

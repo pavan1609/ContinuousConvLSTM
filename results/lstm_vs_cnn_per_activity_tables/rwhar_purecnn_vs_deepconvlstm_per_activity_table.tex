@@ -1,0 +1,38 @@
+\begin{table}[t]
+  \centering\scriptsize
+  \caption{Per-activity performance along the sampling rates, on the RealWorld-HAR dataset, using two standard models, a pure CNN and the DeepConvLSTM model. Values are mean, per-class $F_1$ scores from LOSO cross validation. For each model, scores within a 0.02 absolute $F_1$ range of the best score are shown in \textcolor{green}{green}, and the lowest-rate score within this range is \underline{\textcolor{green}{underlined}}.}
+  \label{tab:freq_perclass_rwhar_combined}
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X cccc @{\hspace{1.5em}} cccc@{}}
+    \toprule
+    & \multicolumn{4}{c}{Pure CNN} & \multicolumn{4}{c}{DeepConvLSTM} \\
+    Activity & 6 & 12 & 25 & 50 & 6 & 12 & 25 & 50 \\
+    \midrule
+    0 & 0.441 & 0.653 & 0.721 & \underline{\textcolor{green}{0.755}} & 0.661 & 0.694 & \underline{\textcolor{green}{0.714}} & \textcolor{green}{0.727} \\
+    1 & 0.615 & \underline{\textcolor{green}{0.808}} & \textcolor{green}{0.810} & \textcolor{green}{0.811} & 0.744 & \underline{\textcolor{green}{0.795}} & \textcolor{green}{0.790} & \textcolor{green}{0.799} \\
+    2 & \underline{\textcolor{green}{0.728}} & 0.697 & 0.660 & 0.665 & 0.651 & 0.685 & \underline{\textcolor{green}{0.716}} & \textcolor{green}{0.700} \\
+    3 & \underline{\textcolor{green}{0.609}} & \textcolor{green}{0.622} & 0.595 & \textcolor{green}{0.604} & 0.573 & \underline{\textcolor{green}{0.636}} & \textcolor{green}{0.654} & \textcolor{green}{0.641} \\
+    4 & 0.950 & \underline{\textcolor{green}{0.976}} & \textcolor{green}{0.975} & 0.950 & \underline{\textcolor{green}{0.973}} & \textcolor{green}{0.976} & \textcolor{green}{0.976} & \textcolor{green}{0.974} \\
+    5 & 0.437 & 0.801 & \underline{\textcolor{green}{0.840}} & \textcolor{green}{0.847} & 0.728 & \underline{\textcolor{green}{0.864}} & \textcolor{green}{0.850} & \textcolor{green}{0.846} \\
+    6 & 0.590 & 0.696 & \underline{\textcolor{green}{0.708}} & \textcolor{green}{0.727} & 0.688 & \underline{\textcolor{green}{0.714}} & \textcolor{green}{0.721} & \textcolor{green}{0.722} \\
+    7 & 0.451 & 0.629 & \underline{\textcolor{green}{0.682}} & \textcolor{green}{0.693} & 0.605 & 0.641 & \underline{\textcolor{green}{0.666}} & \textcolor{green}{0.684} \\
+    loso_sbj_0 & 0.485 & 0.664 & 0.660 & \underline{\textcolor{green}{0.721}} & 0.667 & \underline{\textcolor{green}{0.709}} & \textcolor{green}{0.698} & \textcolor{green}{0.712} \\
+    loso_sbj_1 & 0.535 & 0.631 & \underline{\textcolor{green}{0.651}} & \textcolor{green}{0.637} & 0.634 & 0.642 & \underline{\textcolor{green}{0.676}} & 0.640 \\
+    loso_sbj_10 & 0.744 & 0.877 & \underline{\textcolor{green}{0.901}} & \textcolor{green}{0.900} & 0.817 & \underline{\textcolor{green}{0.861}} & \textcolor{green}{0.868} & \textcolor{green}{0.872} \\
+    loso_sbj_11 & 0.787 & \underline{\textcolor{green}{0.918}} & \textcolor{green}{0.925} & \textcolor{green}{0.926} & 0.895 & \underline{\textcolor{green}{0.914}} & \textcolor{green}{0.909} & \textcolor{green}{0.921} \\
+    loso_sbj_12 & 0.577 & 0.727 & \underline{\textcolor{green}{0.742}} & \textcolor{green}{0.755} & 0.730 & \underline{\textcolor{green}{0.791}} & \textcolor{green}{0.801} & \textcolor{green}{0.811} \\
+    loso_sbj_13 & 0.504 & 0.623 & \underline{\textcolor{green}{0.687}} & \textcolor{green}{0.680} & 0.650 & 0.690 & 0.735 & \underline{\textcolor{green}{0.775}} \\
+    loso_sbj_14 & 0.544 & \underline{\textcolor{green}{0.752}} & \textcolor{green}{0.755} & \textcolor{green}{0.769} & 0.591 & \underline{\textcolor{green}{0.740}} & 0.718 & 0.690 \\
+    loso_sbj_2 & 0.314 & \underline{\textcolor{green}{0.341}} & 0.324 & \textcolor{green}{0.347} & 0.346 & 0.387 & \underline{\textcolor{green}{0.408}} & \textcolor{green}{0.408} \\
+    loso_sbj_3 & 0.646 & \underline{\textcolor{green}{0.781}} & \textcolor{green}{0.797} & \textcolor{green}{0.797} & 0.761 & 0.747 & \underline{\textcolor{green}{0.788}} & 0.762 \\
+    loso_sbj_4 & 0.660 & 0.809 & \underline{\textcolor{green}{0.824}} & \textcolor{green}{0.831} & 0.778 & 0.809 & \underline{\textcolor{green}{0.825}} & \textcolor{green}{0.833} \\
+    loso_sbj_5 & 0.625 & 0.713 & \underline{\textcolor{green}{0.754}} & \textcolor{green}{0.747} & 0.740 & 0.785 & \underline{\textcolor{green}{0.824}} & \textcolor{green}{0.804} \\
+    loso_sbj_6 & 0.683 & \underline{\textcolor{green}{0.831}} & \textcolor{green}{0.846} & \textcolor{green}{0.845} & \underline{\textcolor{green}{0.803}} & \textcolor{green}{0.800} & \textcolor{green}{0.813} & \textcolor{green}{0.796} \\
+    loso_sbj_7 & 0.444 & \underline{\textcolor{green}{0.671}} & \textcolor{green}{0.669} & \textcolor{green}{0.680} & 0.489 & \underline{\textcolor{green}{0.648}} & 0.606 & \textcolor{green}{0.639} \\
+    loso_sbj_8 & 0.757 & 0.856 & \underline{\textcolor{green}{0.878}} & \textcolor{green}{0.878} & 0.836 & \underline{\textcolor{green}{0.872}} & \textcolor{green}{0.880} & \textcolor{green}{0.886} \\
+    loso_sbj_9 & 0.734 & \underline{\textcolor{green}{0.830}} & \textcolor{green}{0.818} & \textcolor{green}{0.833} & 0.807 & \underline{\textcolor{green}{0.864}} & \textcolor{green}{0.864} & \textcolor{green}{0.872} \\
+    \midrule
+    Macro mean & 0.603 & 0.735 & \underline{\textcolor{green}{0.749}} & \textcolor{green}{0.756} & 0.703 & \underline{\textcolor{green}{0.751}} & \textcolor{green}{0.761} & \textcolor{green}{0.762} \\
+    Macro $F_1$ optimal per-activity & \multicolumn{4}{c}{0.756} & \multicolumn{4}{c}{0.764} \\
+    \bottomrule
+  \end{tabularx}
+\end{table}

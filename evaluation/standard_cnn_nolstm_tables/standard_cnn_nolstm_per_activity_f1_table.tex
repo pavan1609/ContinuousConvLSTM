@@ -1,0 +1,33 @@
+\begin{table}[t]
+  \centering
+  \small
+  \caption{Per-activity sensitivity to the sampling rate on WEAR using the pure CNN baseline (mean per-class $F_1$ across 22 LOSO subjects). The best scores per activity, as well as scores within 0.02 absolute $F_1$ of the best, are shown in bold. The optimal rate reports the lowest sampling rate within this tolerance.}
+  \label{tab:standard_cnn_nolstm_perclass_wear}
+  \begin{tabularx}{\linewidth}{lccccc}
+    \toprule
+    Activity & $F_1$@6 & $F_1$@12 & $F_1$@25 & $F_1$@50 & Opt.\ rate \\
+    \midrule
+    bench-dips & \textbf{0.652} & \textbf{0.650} & \textbf{0.660} & \textbf{0.650} & 6 Hz \\
+    burpees & 0.553 & 0.570 & \textbf{0.628} & 0.590 & 25 Hz \\
+    jogging & 0.804 & 0.838 & \textbf{0.888} & 0.866 & 25 Hz \\
+    jogging (butt-kicks) & 0.735 & 0.811 & \textbf{0.842} & \textbf{0.831} & 25 Hz \\
+    jogging (rotating arms) & 0.666 & 0.737 & \textbf{0.795} & \textbf{0.786} & 25 Hz \\
+    jogging (sidesteps) & 0.832 & 0.878 & \textbf{0.899} & \textbf{0.891} & 25 Hz \\
+    jogging (skipping) & 0.747 & 0.834 & \textbf{0.890} & \textbf{0.874} & 25 Hz \\
+    lunges & 0.439 & 0.451 & \textbf{0.518} & 0.489 & 25 Hz \\
+    lunges (complex) & \textbf{0.588} & \textbf{0.597} & \textbf{0.594} & \textbf{0.603} & 6 Hz \\
+    nan & 0.467 & 0.495 & \textbf{0.539} & \textbf{0.529} & 25 Hz \\
+    push-ups & 0.582 & \textbf{0.611} & \textbf{0.623} & 0.600 & 12 Hz \\
+    push-ups (complex) & 0.596 & 0.619 & \textbf{0.641} & 0.606 & 25 Hz \\
+    sit-ups & \textbf{0.625} & \textbf{0.624} & \textbf{0.636} & \textbf{0.638} & 6 Hz \\
+    sit-ups (complex) & \textbf{0.680} & \textbf{0.664} & \textbf{0.683} & \textbf{0.671} & 6 Hz \\
+    stretching (hamstrings) & \textbf{0.701} & \textbf{0.695} & \textbf{0.700} & \textbf{0.707} & 6 Hz \\
+    stretching (lumbar rotation) & 0.884 & \textbf{0.898} & \textbf{0.906} & \textbf{0.897} & 12 Hz \\
+    stretching (lunging) & 0.594 & 0.616 & \textbf{0.647} & \textbf{0.654} & 25 Hz \\
+    stretching (shoulders) & 0.520 & 0.517 & \textbf{0.541} & \textbf{0.526} & 25 Hz \\
+    stretching (triceps) & \textbf{0.757} & \textbf{0.752} & \textbf{0.746} & \textbf{0.748} & 6 Hz \\
+    \midrule
+    Macro mean & 0.654 & 0.677 & \textbf{0.704} & \textbf{0.692} & 25 Hz \\
+    \bottomrule
+  \end{tabularx}
+\end{table}

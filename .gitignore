@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data / artifacts (DO NOT COMMIT)
+data/
+logs/
+checkpoints/
+slurm_logs/
+runs/
+wandb/
+neptune/
+
+# Model / binaries
+*.pth
+*.pth.tar
+*.pt
+*.onnx
+*.ckpt
+*.npz
+*.npy
+*.pkl
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Local scratch / temp
+tmp/
+*.tmp
+
+# Datasets / raw data
+datasets/
+dataset/
+data/datasets/
+data/raw/
+data/processed/
+
+# Checkpoints / trained model weights
+checkpoints/
+checkpoint/
+**/checkpoints/
+**/checkpoint/
+*.ckpt
+*.pt
+*.pth
+*.pth.tar
+
+# Slurm output logs only, not .slurm job scripts
+slurm-*.out
+slurm-*.err
+*.slurm.out
+*.slurm.err
+*.slurm.log

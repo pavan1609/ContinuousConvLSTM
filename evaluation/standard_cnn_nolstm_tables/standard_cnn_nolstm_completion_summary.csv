@@ -1,0 +1,5 @@
+rate_hz,checkpoints,macro_csvs,per_class_csvs,complete_22_folds
+6,22,22,22,True
+12,22,22,22,True
+25,22,22,22,True
+50,22,22,22,True

@@ -1,0 +1,1673 @@
+activity,f1,rate,split,csv_path
+null,0.716734,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+bench-dips,0.854701,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+burpees,0.793143,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+jogging,0.835905,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+jogging (butt-kicks),0.433697,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+jogging (rotating arms),0.390651,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+jogging (sidesteps),0.896996,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+jogging (skipping),0.604027,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+lunges,0.536036,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+lunges (complex),0.760369,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+push-ups,0.539936,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+push-ups (complex),0.642398,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+sit-ups,0.808179,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+sit-ups (complex),0.685846,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+stretching (hamstrings),0.658135,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+stretching (lumbar rotation),0.882922,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+stretching (lunging),0.924901,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+stretching (shoulders),0.788906,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+stretching (triceps),0.846847,6,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_6hz.csv
+null,0.743822,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+bench-dips,0.863931,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+burpees,0.829596,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+jogging,0.840520,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+jogging (butt-kicks),0.603448,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+jogging (rotating arms),0.533128,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+jogging (sidesteps),0.904512,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+jogging (skipping),0.699407,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+lunges,0.521635,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+lunges (complex),0.762840,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+push-ups,0.554859,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+push-ups (complex),0.702202,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+sit-ups,0.802846,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+sit-ups (complex),0.708531,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+stretching (hamstrings),0.612022,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+stretching (lumbar rotation),0.850052,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+stretching (lunging),0.931217,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+stretching (shoulders),0.760870,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+stretching (triceps),0.843049,12,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_12hz.csv
+null,0.764734,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+bench-dips,0.918485,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+burpees,0.828932,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+jogging,0.842178,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+jogging (butt-kicks),0.684547,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+jogging (rotating arms),0.575668,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+jogging (sidesteps),0.912134,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+jogging (skipping),0.761180,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+lunges,0.476534,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+lunges (complex),0.739521,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+push-ups,0.556439,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+push-ups (complex),0.664303,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+sit-ups,0.768586,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+sit-ups (complex),0.730198,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+stretching (hamstrings),0.600000,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+stretching (lumbar rotation),0.831143,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+stretching (lunging),0.921466,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+stretching (shoulders),0.775641,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+stretching (triceps),0.833517,25,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0_25hz.csv
+null,0.734914,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+bench-dips,0.928074,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+burpees,0.800000,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+jogging,0.869318,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+jogging (butt-kicks),0.858757,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+jogging (rotating arms),0.655782,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+jogging (sidesteps),0.927597,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+jogging (skipping),0.861467,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+lunges,0.449102,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+lunges (complex),0.780723,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+push-ups,0.592460,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+push-ups (complex),0.674948,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+sit-ups,0.693603,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+sit-ups (complex),0.683685,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+stretching (hamstrings),0.657343,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+stretching (lumbar rotation),0.893013,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+stretching (lunging),0.936675,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+stretching (shoulders),0.725352,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+stretching (triceps),0.822894,50,loso_sbj_0,logs/deepconvlstm/50hz/loso_sbj_0/per_class_metrics_loso_sbj_0.csv
+null,0.735986,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+bench-dips,0.762821,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+burpees,0.522678,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+jogging,0.462222,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+jogging (butt-kicks),0.776204,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+jogging (rotating arms),0.484412,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+jogging (sidesteps),0.764368,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+jogging (skipping),0.629213,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+lunges,0.632653,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+lunges (complex),0.795229,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+push-ups,0.707317,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+push-ups (complex),0.830935,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+sit-ups,0.725869,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+sit-ups (complex),0.682707,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+stretching (hamstrings),0.858561,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+stretching (lumbar rotation),0.960630,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+stretching (lunging),0.844125,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+stretching (shoulders),0.778420,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+stretching (triceps),0.890869,6,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_6hz.csv
+null,0.729480,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+bench-dips,0.769231,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+burpees,0.553846,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+jogging,0.517241,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+jogging (butt-kicks),0.795640,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+jogging (rotating arms),0.561404,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+jogging (sidesteps),0.737401,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+jogging (skipping),0.706697,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+lunges,0.777778,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+lunges (complex),0.847599,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+push-ups,0.653061,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+push-ups (complex),0.873684,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+sit-ups,0.704453,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+sit-ups (complex),0.684685,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+stretching (hamstrings),0.829384,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+stretching (lumbar rotation),0.957198,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+stretching (lunging),0.830097,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+stretching (shoulders),0.722719,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+stretching (triceps),0.897494,12,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_12hz.csv
+null,0.741013,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+bench-dips,0.806154,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+burpees,0.627078,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+jogging,0.484305,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+jogging (butt-kicks),0.806452,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+jogging (rotating arms),0.584211,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+jogging (sidesteps),0.767956,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+jogging (skipping),0.705336,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+lunges,0.815490,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+lunges (complex),0.834356,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+push-ups,0.718266,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+push-ups (complex),0.872910,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+sit-ups,0.705394,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+sit-ups (complex),0.676558,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+stretching (hamstrings),0.845966,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+stretching (lumbar rotation),0.957198,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+stretching (lunging),0.828916,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+stretching (shoulders),0.712381,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+stretching (triceps),0.880000,25,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1_25hz.csv
+null,0.751897,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+bench-dips,0.814607,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+burpees,0.561644,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+jogging,0.730627,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+jogging (butt-kicks),0.790698,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+jogging (rotating arms),0.589831,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+jogging (sidesteps),0.764179,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+jogging (skipping),0.662192,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+lunges,0.737557,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+lunges (complex),0.797619,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+push-ups,0.832461,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+push-ups (complex),0.862816,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+sit-ups,0.652542,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+sit-ups (complex),0.648876,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+stretching (hamstrings),0.825175,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+stretching (lumbar rotation),0.956863,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+stretching (lunging),0.822622,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+stretching (shoulders),0.800000,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+stretching (triceps),0.876652,50,loso_sbj_1,logs/deepconvlstm/50hz/loso_sbj_1/per_class_metrics_loso_sbj_1.csv
+null,0.574975,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+bench-dips,0.000000,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+burpees,0.576623,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+jogging,0.817021,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+jogging (butt-kicks),0.747346,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+jogging (rotating arms),0.000000,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+jogging (sidesteps),0.914286,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+jogging (skipping),0.479339,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+lunges,0.225681,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+lunges (complex),0.721202,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+push-ups,0.000000,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+push-ups (complex),0.595388,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+sit-ups,0.500000,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+sit-ups (complex),0.772727,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+stretching (hamstrings),0.761364,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+stretching (lumbar rotation),0.989796,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+stretching (lunging),0.000000,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+stretching (shoulders),0.107345,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+stretching (triceps),0.061728,6,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_6hz.csv
+null,0.640319,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+bench-dips,0.000000,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+burpees,0.503937,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+jogging,0.928068,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+jogging (butt-kicks),0.794582,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+jogging (rotating arms),0.000000,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+jogging (sidesteps),0.935939,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+jogging (skipping),0.556863,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+lunges,0.274631,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+lunges (complex),0.667692,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+push-ups,0.000000,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+push-ups (complex),0.542254,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+sit-ups,0.532819,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+sit-ups (complex),0.688976,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+stretching (hamstrings),0.778761,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+stretching (lumbar rotation),0.994898,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+stretching (lunging),0.000000,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+stretching (shoulders),0.035149,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+stretching (triceps),0.062284,12,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_12hz.csv
+null,0.719540,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+bench-dips,0.000000,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+burpees,0.493573,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+jogging,0.929900,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+jogging (butt-kicks),0.787472,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+jogging (rotating arms),0.000000,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+jogging (sidesteps),0.951034,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+jogging (skipping),0.575875,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+lunges,0.341202,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+lunges (complex),0.726644,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+push-ups,0.000000,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+push-ups (complex),0.500000,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+sit-ups,0.503650,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+sit-ups (complex),0.724891,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+stretching (hamstrings),0.885870,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+stretching (lumbar rotation),0.994898,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+stretching (lunging),0.000000,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+stretching (shoulders),0.261290,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+stretching (triceps),0.085809,25,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2_25hz.csv
+null,0.450012,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+bench-dips,0.688442,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+burpees,0.379747,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+jogging,0.946588,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+jogging (butt-kicks),0.877193,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+jogging (rotating arms),0.000000,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+jogging (sidesteps),0.961326,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+jogging (skipping),0.690391,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+lunges,0.207524,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+lunges (complex),0.854839,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+push-ups,0.000000,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+push-ups (complex),0.583630,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+sit-ups,0.645866,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+sit-ups (complex),0.634259,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+stretching (hamstrings),0.858491,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+stretching (lumbar rotation),0.960836,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+stretching (lunging),0.000000,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+stretching (shoulders),0.116776,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+stretching (triceps),0.633929,50,loso_sbj_2,logs/deepconvlstm/50hz/loso_sbj_2/per_class_metrics_loso_sbj_2.csv
+null,0.696024,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+bench-dips,0.874680,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+burpees,0.640177,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+jogging,0.864130,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+jogging (butt-kicks),0.930851,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+jogging (rotating arms),0.727669,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+jogging (sidesteps),0.922242,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+jogging (skipping),0.715254,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+lunges,0.091358,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+lunges (complex),0.517857,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+push-ups,0.729560,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+push-ups (complex),0.776280,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+sit-ups,0.760148,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+sit-ups (complex),0.656189,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+stretching (hamstrings),0.406639,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+stretching (lumbar rotation),0.958449,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+stretching (lunging),0.142518,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+stretching (shoulders),0.472222,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+stretching (triceps),0.703252,6,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_6hz.csv
+null,0.768655,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+bench-dips,0.872449,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+burpees,0.587992,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+jogging,0.890625,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+jogging (butt-kicks),0.892857,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+jogging (rotating arms),0.784689,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+jogging (sidesteps),0.946984,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+jogging (skipping),0.726351,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+lunges,0.097561,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+lunges (complex),0.524345,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+push-ups,0.750000,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+push-ups (complex),0.805128,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+sit-ups,0.750968,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+sit-ups (complex),0.669643,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+stretching (hamstrings),0.486486,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+stretching (lumbar rotation),0.910995,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+stretching (lunging),0.289157,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+stretching (shoulders),0.471429,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+stretching (triceps),0.731092,12,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_12hz.csv
+null,0.805102,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+bench-dips,0.881443,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+burpees,0.596950,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+jogging,0.878553,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+jogging (butt-kicks),0.884910,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+jogging (rotating arms),0.789346,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+jogging (sidesteps),0.953789,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+jogging (skipping),0.720137,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+lunges,0.105647,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+lunges (complex),0.548204,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+push-ups,0.764835,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+push-ups (complex),0.815000,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+sit-ups,0.729412,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+sit-ups (complex),0.642857,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+stretching (hamstrings),0.560484,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+stretching (lumbar rotation),0.906250,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+stretching (lunging),0.303303,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+stretching (shoulders),0.354717,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+stretching (triceps),0.705882,25,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3_25hz.csv
+null,0.836001,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+bench-dips,0.834146,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+burpees,0.659751,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+jogging,0.924623,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+jogging (butt-kicks),0.871287,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+jogging (rotating arms),0.840000,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+jogging (sidesteps),0.958258,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+jogging (skipping),0.810559,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+lunges,0.152672,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+lunges (complex),0.546490,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+push-ups,0.781095,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+push-ups (complex),0.829630,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+sit-ups,0.769591,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+sit-ups (complex),0.641975,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+stretching (hamstrings),0.599562,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+stretching (lumbar rotation),0.953168,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+stretching (lunging),0.297710,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+stretching (shoulders),0.776596,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+stretching (triceps),0.865000,50,loso_sbj_3,logs/deepconvlstm/50hz/loso_sbj_3/per_class_metrics_loso_sbj_3.csv
+null,0.692585,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+bench-dips,0.444882,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+burpees,0.159091,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+jogging,0.904762,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+jogging (butt-kicks),0.228374,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+jogging (rotating arms),0.771654,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+jogging (sidesteps),0.695876,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+jogging (skipping),0.778711,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+lunges,0.556622,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+lunges (complex),0.175439,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+push-ups,0.707602,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+push-ups (complex),0.707921,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+sit-ups,0.892617,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+sit-ups (complex),0.837310,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+stretching (hamstrings),0.608491,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+stretching (lumbar rotation),0.625743,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+stretching (lunging),0.865014,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+stretching (shoulders),0.754342,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+stretching (triceps),0.845161,6,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_6hz.csv
+null,0.696171,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+bench-dips,0.455399,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+burpees,0.171220,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+jogging,0.938511,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+jogging (butt-kicks),0.279221,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+jogging (rotating arms),0.890710,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+jogging (sidesteps),0.814590,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+jogging (skipping),0.876623,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+lunges,0.542495,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+lunges (complex),0.136499,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+push-ups,0.803828,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+push-ups (complex),0.729529,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+sit-ups,0.845070,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+sit-ups (complex),0.809628,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+stretching (hamstrings),0.615385,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+stretching (lumbar rotation),0.622490,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+stretching (lunging),0.884615,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+stretching (shoulders),0.723404,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+stretching (triceps),0.853420,12,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_12hz.csv
+null,0.692026,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+bench-dips,0.366492,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+burpees,0.162362,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+jogging,0.938511,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+jogging (butt-kicks),0.268852,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+jogging (rotating arms),0.903047,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+jogging (sidesteps),0.815710,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+jogging (skipping),0.864516,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+lunges,0.570881,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+lunges (complex),0.142433,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+push-ups,0.796209,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+push-ups (complex),0.754342,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+sit-ups,0.836735,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+sit-ups (complex),0.807175,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+stretching (hamstrings),0.613583,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+stretching (lumbar rotation),0.632207,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+stretching (lunging),0.867925,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+stretching (shoulders),0.662281,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+stretching (triceps),0.845161,25,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4_25hz.csv
+null,0.715543,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+bench-dips,0.452830,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+burpees,0.176030,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+jogging,0.968750,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+jogging (butt-kicks),0.307692,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+jogging (rotating arms),0.922156,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+jogging (sidesteps),0.839506,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+jogging (skipping),0.883871,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+lunges,0.575342,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+lunges (complex),0.136905,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+push-ups,0.769648,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+push-ups (complex),0.731602,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+sit-ups,0.864865,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+sit-ups (complex),0.813853,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+stretching (hamstrings),0.614657,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+stretching (lumbar rotation),0.625000,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+stretching (lunging),0.931343,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+stretching (shoulders),0.831025,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+stretching (triceps),0.896552,50,loso_sbj_4,logs/deepconvlstm/50hz/loso_sbj_4/per_class_metrics_loso_sbj_4.csv
+null,0.550241,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+bench-dips,0.000000,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+burpees,0.072202,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+jogging,0.501608,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+jogging (butt-kicks),0.000000,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+jogging (rotating arms),0.779570,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+jogging (sidesteps),0.865772,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+jogging (skipping),0.716792,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+lunges,0.043290,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+lunges (complex),0.398496,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+push-ups,0.748503,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+push-ups (complex),0.743902,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+sit-ups,0.299145,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+sit-ups (complex),0.605452,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+stretching (hamstrings),0.538206,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+stretching (lumbar rotation),0.502092,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+stretching (lunging),0.668639,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+stretching (shoulders),0.238298,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+stretching (triceps),0.964758,6,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_6hz.csv
+null,0.556916,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+bench-dips,0.000000,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+burpees,0.153846,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+jogging,0.293651,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+jogging (butt-kicks),0.052632,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+jogging (rotating arms),0.769231,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+jogging (sidesteps),0.895425,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+jogging (skipping),0.690476,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+lunges,0.111628,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+lunges (complex),0.445255,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+push-ups,0.670886,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+push-ups (complex),0.719764,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+sit-ups,0.363636,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+sit-ups (complex),0.638158,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+stretching (hamstrings),0.517007,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+stretching (lumbar rotation),0.542510,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+stretching (lunging),0.656115,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+stretching (shoulders),0.059701,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+stretching (triceps),0.971554,12,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_12hz.csv
+null,0.556656,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+bench-dips,0.000000,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+burpees,0.138365,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+jogging,0.405063,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+jogging (butt-kicks),0.000000,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+jogging (rotating arms),0.800000,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+jogging (sidesteps),0.890282,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+jogging (skipping),0.650224,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+lunges,0.123223,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+lunges (complex),0.501742,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+push-ups,0.653465,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+push-ups (complex),0.699454,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+sit-ups,0.333333,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+sit-ups (complex),0.633826,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+stretching (hamstrings),0.248000,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+stretching (lumbar rotation),0.520661,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+stretching (lunging),0.674487,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+stretching (shoulders),0.403162,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+stretching (triceps),0.967320,25,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5_25hz.csv
+null,0.582242,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+bench-dips,0.000000,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+burpees,0.134831,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+jogging,0.489051,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+jogging (butt-kicks),0.068376,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+jogging (rotating arms),0.815725,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+jogging (sidesteps),0.944099,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+jogging (skipping),0.768000,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+lunges,0.066390,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+lunges (complex),0.481100,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+push-ups,0.692857,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+push-ups (complex),0.636620,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+sit-ups,0.228571,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+sit-ups (complex),0.604361,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+stretching (hamstrings),0.445230,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+stretching (lumbar rotation),0.536965,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+stretching (lunging),0.749153,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+stretching (shoulders),0.165899,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+stretching (triceps),0.969432,50,loso_sbj_5,logs/deepconvlstm/50hz/loso_sbj_5/per_class_metrics_loso_sbj_5.csv
+null,0.589853,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+bench-dips,0.729560,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+burpees,0.542005,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+jogging,0.933092,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+jogging (butt-kicks),0.894602,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+jogging (rotating arms),0.895442,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+jogging (sidesteps),0.910026,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+jogging (skipping),0.894472,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+lunges,0.814953,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+lunges (complex),0.855814,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+push-ups,0.155280,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+push-ups (complex),0.391304,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+sit-ups,0.630137,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+sit-ups (complex),0.733051,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+stretching (hamstrings),0.721805,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+stretching (lumbar rotation),0.947368,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+stretching (lunging),0.897959,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+stretching (shoulders),0.905941,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+stretching (triceps),0.917949,6,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_6hz.csv
+null,0.627451,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+bench-dips,0.745098,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+burpees,0.555874,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+jogging,0.971963,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+jogging (butt-kicks),0.964200,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+jogging (rotating arms),0.927318,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+jogging (sidesteps),0.917526,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+jogging (skipping),0.983516,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+lunges,0.877264,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+lunges (complex),0.855072,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+push-ups,0.006536,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+push-ups (complex),0.397830,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+sit-ups,0.681223,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+sit-ups (complex),0.713287,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+stretching (hamstrings),0.508772,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+stretching (lumbar rotation),0.954128,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+stretching (lunging),0.896861,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+stretching (shoulders),0.897243,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+stretching (triceps),0.916667,12,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_12hz.csv
+null,0.619377,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+bench-dips,0.768539,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+burpees,0.675532,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+jogging,0.953789,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+jogging (butt-kicks),0.918182,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+jogging (rotating arms),0.911392,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+jogging (sidesteps),0.933673,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+jogging (skipping),0.967568,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+lunges,0.893443,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+lunges (complex),0.885086,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+push-ups,0.000000,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+push-ups (complex),0.420074,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+sit-ups,0.642369,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+sit-ups (complex),0.703786,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+stretching (hamstrings),0.484716,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+stretching (lumbar rotation),0.949541,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+stretching (lunging),0.902494,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+stretching (shoulders),0.835443,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+stretching (triceps),0.925743,25,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6_25hz.csv
+null,0.634921,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+bench-dips,0.723493,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+burpees,0.532544,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+jogging,0.981203,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+jogging (butt-kicks),0.959620,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+jogging (rotating arms),0.944724,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+jogging (sidesteps),0.934010,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+jogging (skipping),0.983425,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+lunges,0.838323,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+lunges (complex),0.874396,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+push-ups,0.516854,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+push-ups (complex),0.488613,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+sit-ups,0.626316,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+sit-ups (complex),0.702087,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+stretching (hamstrings),0.773852,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+stretching (lumbar rotation),0.951501,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+stretching (lunging),0.881960,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+stretching (shoulders),0.892768,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+stretching (triceps),0.906404,50,loso_sbj_6,logs/deepconvlstm/50hz/loso_sbj_6/per_class_metrics_loso_sbj_6.csv
+null,0.683351,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+bench-dips,0.573864,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+burpees,0.483363,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+jogging,0.833803,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+jogging (butt-kicks),0.564706,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+jogging (rotating arms),0.651801,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+jogging (sidesteps),0.884319,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+jogging (skipping),0.754286,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+lunges,0.657074,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+lunges (complex),0.687140,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+push-ups,0.717340,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+push-ups (complex),0.642534,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+sit-ups,0.959786,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+sit-ups (complex),0.868085,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+stretching (hamstrings),0.890511,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+stretching (lumbar rotation),0.900524,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+stretching (lunging),0.623158,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+stretching (shoulders),0.814988,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+stretching (triceps),0.870871,6,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_6hz.csv
+null,0.697987,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+bench-dips,0.584795,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+burpees,0.641667,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+jogging,0.884422,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+jogging (butt-kicks),0.569579,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+jogging (rotating arms),0.850679,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+jogging (sidesteps),0.874036,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+jogging (skipping),0.842857,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+lunges,0.556000,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+lunges (complex),0.750542,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+push-ups,0.530259,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+push-ups (complex),0.513557,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+sit-ups,0.959128,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+sit-ups (complex),0.883621,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+stretching (hamstrings),0.867647,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+stretching (lumbar rotation),0.895833,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+stretching (lunging),0.651685,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+stretching (shoulders),0.842857,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+stretching (triceps),0.876133,12,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_12hz.csv
+null,0.696150,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+bench-dips,0.580645,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+burpees,0.630081,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+jogging,0.895377,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+jogging (butt-kicks),0.561290,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+jogging (rotating arms),0.844244,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+jogging (sidesteps),0.881013,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+jogging (skipping),0.838095,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+lunges,0.553191,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+lunges (complex),0.784753,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+push-ups,0.217899,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+push-ups (complex),0.464619,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+sit-ups,0.967568,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+sit-ups (complex),0.871036,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+stretching (hamstrings),0.855037,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+stretching (lumbar rotation),0.891192,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+stretching (lunging),0.679070,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+stretching (shoulders),0.831354,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+stretching (triceps),0.874636,25,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7_25hz.csv
+null,0.600056,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+bench-dips,0.571429,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+burpees,0.335430,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+jogging,0.937028,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+jogging (butt-kicks),0.659026,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+jogging (rotating arms),0.933002,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+jogging (sidesteps),0.885000,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+jogging (skipping),0.871287,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+lunges,0.591966,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+lunges (complex),0.785872,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+push-ups,0.733990,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+push-ups (complex),0.647343,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+sit-ups,0.976127,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+sit-ups (complex),0.886510,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+stretching (hamstrings),0.878049,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+stretching (lumbar rotation),0.900524,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+stretching (lunging),0.671296,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+stretching (shoulders),0.855746,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+stretching (triceps),0.890855,50,loso_sbj_7,logs/deepconvlstm/50hz/loso_sbj_7/per_class_metrics_loso_sbj_7.csv
+null,0.679709,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+bench-dips,0.790795,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+burpees,0.778993,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+jogging,0.958115,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+jogging (butt-kicks),0.969863,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+jogging (rotating arms),0.895735,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+jogging (sidesteps),0.948187,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+jogging (skipping),0.975962,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+lunges,0.577287,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+lunges (complex),0.000000,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+push-ups,0.733728,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+push-ups (complex),0.593939,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+sit-ups,0.727273,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+sit-ups (complex),0.822811,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+stretching (hamstrings),0.892857,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+stretching (lumbar rotation),0.907029,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+stretching (lunging),0.919315,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+stretching (shoulders),0.865604,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+stretching (triceps),0.948229,6,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_6hz.csv
+null,0.697976,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+bench-dips,0.821739,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+burpees,0.789588,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+jogging,0.971129,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+jogging (butt-kicks),0.976000,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+jogging (rotating arms),0.958838,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+jogging (sidesteps),0.953608,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+jogging (skipping),0.973236,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+lunges,0.576606,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+lunges (complex),0.000000,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+push-ups,0.741405,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+push-ups (complex),0.614887,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+sit-ups,0.307692,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+sit-ups (complex),0.840449,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+stretching (hamstrings),0.894855,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+stretching (lumbar rotation),0.959233,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+stretching (lunging),0.910891,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+stretching (shoulders),0.897561,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+stretching (triceps),0.943700,12,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_12hz.csv
+null,0.688085,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+bench-dips,0.830769,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+burpees,0.809843,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+jogging,0.973684,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+jogging (butt-kicks),0.963158,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+jogging (rotating arms),0.963680,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+jogging (sidesteps),0.961240,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+jogging (skipping),0.954869,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+lunges,0.572368,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+lunges (complex),0.017241,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+push-ups,0.733129,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+push-ups (complex),0.591045,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+sit-ups,0.270968,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+sit-ups (complex),0.821101,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+stretching (hamstrings),0.892857,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+stretching (lumbar rotation),0.963855,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+stretching (lunging),0.912621,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+stretching (shoulders),0.912621,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+stretching (triceps),0.941176,25,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8_25hz.csv
+null,0.636701,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+bench-dips,0.860412,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+burpees,0.729459,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+jogging,0.970976,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+jogging (butt-kicks),0.983871,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+jogging (rotating arms),0.949640,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+jogging (sidesteps),0.962366,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+jogging (skipping),0.959036,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+lunges,0.529586,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+lunges (complex),0.000000,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+push-ups,0.769470,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+push-ups (complex),0.655462,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+sit-ups,0.837529,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+sit-ups (complex),0.848233,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+stretching (hamstrings),0.884444,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+stretching (lumbar rotation),0.947867,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+stretching (lunging),0.868932,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+stretching (shoulders),0.821978,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+stretching (triceps),0.927224,50,loso_sbj_8,logs/deepconvlstm/50hz/loso_sbj_8/per_class_metrics_loso_sbj_8.csv
+null,0.386892,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+bench-dips,0.000000,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+burpees,0.458716,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+jogging,0.000000,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+jogging (butt-kicks),0.831461,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+jogging (rotating arms),0.000000,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+jogging (sidesteps),0.404930,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+jogging (skipping),0.432348,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+lunges,0.220979,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+lunges (complex),0.497696,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+push-ups,0.265193,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+push-ups (complex),0.458150,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+sit-ups,0.000000,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+sit-ups (complex),0.008511,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+stretching (hamstrings),0.535385,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+stretching (lumbar rotation),0.905028,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+stretching (lunging),0.000000,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+stretching (shoulders),0.582133,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+stretching (triceps),0.290456,6,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_6hz.csv
+null,0.440367,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+bench-dips,0.000000,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+burpees,0.573840,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+jogging,0.000000,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+jogging (butt-kicks),0.931034,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+jogging (rotating arms),0.000000,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+jogging (sidesteps),0.344371,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+jogging (skipping),0.520930,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+lunges,0.223214,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+lunges (complex),0.439353,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+push-ups,0.297872,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+push-ups (complex),0.441860,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+sit-ups,0.000000,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+sit-ups (complex),0.008584,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+stretching (hamstrings),0.516517,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+stretching (lumbar rotation),0.875000,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+stretching (lunging),0.000000,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+stretching (shoulders),0.577259,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+stretching (triceps),0.282158,12,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_12hz.csv
+null,0.435262,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+bench-dips,0.000000,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+burpees,0.613734,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+jogging,0.000000,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+jogging (butt-kicks),0.833333,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+jogging (rotating arms),0.000000,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+jogging (sidesteps),0.349206,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+jogging (skipping),0.435233,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+lunges,0.462203,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+lunges (complex),0.513138,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+push-ups,0.352584,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+push-ups (complex),0.421569,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+sit-ups,0.000000,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+sit-ups (complex),0.017544,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+stretching (hamstrings),0.482085,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+stretching (lumbar rotation),0.885942,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+stretching (lunging),0.000000,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+stretching (shoulders),0.580460,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+stretching (triceps),0.345382,25,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9_25hz.csv
+null,0.460217,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+bench-dips,0.000000,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+burpees,0.592593,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+jogging,0.000000,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+jogging (butt-kicks),0.828194,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+jogging (rotating arms),0.000000,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+jogging (sidesteps),0.470825,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+jogging (skipping),0.495601,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+lunges,0.427807,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+lunges (complex),0.518868,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+push-ups,0.349296,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+push-ups (complex),0.417690,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+sit-ups,0.000000,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+sit-ups (complex),0.017544,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+stretching (hamstrings),0.504559,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+stretching (lumbar rotation),0.883978,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+stretching (lunging),0.000000,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+stretching (shoulders),0.604167,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+stretching (triceps),0.593857,50,loso_sbj_9,logs/deepconvlstm/50hz/loso_sbj_9/per_class_metrics_loso_sbj_9.csv
+null,0.496053,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+bench-dips,0.313570,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+burpees,0.423780,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+jogging,0.867749,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+jogging (butt-kicks),0.631783,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+jogging (rotating arms),0.759657,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+jogging (sidesteps),0.648739,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+jogging (skipping),0.916923,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+lunges,0.739496,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+lunges (complex),0.461964,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+push-ups,0.540084,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+push-ups (complex),0.398892,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+sit-ups,0.743902,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+sit-ups (complex),0.553846,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+stretching (hamstrings),0.684124,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+stretching (lumbar rotation),0.577708,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+stretching (lunging),0.803235,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+stretching (shoulders),0.000000,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+stretching (triceps),0.878173,6,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_6hz.csv
+null,0.557268,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+bench-dips,0.302222,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+burpees,0.471299,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+jogging,0.890443,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+jogging (butt-kicks),0.642023,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+jogging (rotating arms),0.807339,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+jogging (sidesteps),0.640264,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+jogging (skipping),0.935385,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+lunges,0.808743,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+lunges (complex),0.451436,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+push-ups,0.548341,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+push-ups (complex),0.449438,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+sit-ups,0.802632,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+sit-ups (complex),0.615108,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+stretching (hamstrings),0.683007,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+stretching (lumbar rotation),0.579114,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+stretching (lunging),0.842667,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+stretching (shoulders),0.000000,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+stretching (triceps),0.857143,12,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_12hz.csv
+null,0.577481,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+bench-dips,0.191529,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+burpees,0.465181,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+jogging,0.866213,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+jogging (butt-kicks),0.648330,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+jogging (rotating arms),0.791569,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+jogging (sidesteps),0.648557,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+jogging (skipping),0.947368,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+lunges,0.712166,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+lunges (complex),0.442897,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+push-ups,0.505952,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+push-ups (complex),0.388060,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+sit-ups,0.818792,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+sit-ups (complex),0.641366,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+stretching (hamstrings),0.701031,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+stretching (lumbar rotation),0.591640,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+stretching (lunging),0.815190,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+stretching (shoulders),0.000000,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+stretching (triceps),0.883249,25,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10_25hz.csv
+null,0.548362,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+bench-dips,0.410615,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+burpees,0.461126,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+jogging,0.923077,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+jogging (butt-kicks),0.647059,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+jogging (rotating arms),0.844639,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+jogging (sidesteps),0.641196,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+jogging (skipping),0.944785,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+lunges,0.890585,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+lunges (complex),0.431788,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+push-ups,0.588957,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+push-ups (complex),0.469453,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+sit-ups,0.809735,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+sit-ups (complex),0.621291,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+stretching (hamstrings),0.645358,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+stretching (lumbar rotation),0.612642,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+stretching (lunging),0.785515,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+stretching (shoulders),0.000000,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+stretching (triceps),0.883721,50,loso_sbj_10,logs/deepconvlstm/50hz/loso_sbj_10/per_class_metrics_loso_sbj_10.csv
+null,0.701019,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+bench-dips,0.914141,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+burpees,0.792651,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+jogging,0.945355,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+jogging (butt-kicks),0.879795,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+jogging (rotating arms),0.860987,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+jogging (sidesteps),0.979499,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+jogging (skipping),0.851351,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+lunges,0.533333,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+lunges (complex),0.854321,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+push-ups,0.727723,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+push-ups (complex),0.638298,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+sit-ups,0.949602,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+sit-ups (complex),0.917226,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+stretching (hamstrings),0.964286,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+stretching (lumbar rotation),0.985437,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+stretching (lunging),0.786026,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+stretching (shoulders),0.717808,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+stretching (triceps),0.869565,6,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_6hz.csv
+null,0.732040,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+bench-dips,0.873684,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+burpees,0.796834,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+jogging,0.960000,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+jogging (butt-kicks),0.960894,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+jogging (rotating arms),0.919811,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+jogging (sidesteps),0.983982,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+jogging (skipping),0.944262,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+lunges,0.578616,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+lunges (complex),0.853012,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+push-ups,0.746803,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+push-ups (complex),0.696570,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+sit-ups,0.955145,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+sit-ups (complex),0.925508,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+stretching (hamstrings),0.875706,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+stretching (lumbar rotation),0.900901,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+stretching (lunging),0.830626,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+stretching (shoulders),0.632219,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+stretching (triceps),0.871560,12,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_12hz.csv
+null,0.718767,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+bench-dips,0.916456,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+burpees,0.801034,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+jogging,0.957219,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+jogging (butt-kicks),0.950276,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+jogging (rotating arms),0.935561,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+jogging (sidesteps),0.983982,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+jogging (skipping),0.926667,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+lunges,0.553055,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+lunges (complex),0.835267,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+push-ups,0.749367,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+push-ups (complex),0.706522,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+sit-ups,0.936170,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+sit-ups (complex),0.890869,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+stretching (hamstrings),0.813056,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+stretching (lumbar rotation),0.854626,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+stretching (lunging),0.823256,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+stretching (shoulders),0.599424,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+stretching (triceps),0.886311,25,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11_25hz.csv
+null,0.755510,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+bench-dips,0.936709,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+burpees,0.784689,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+jogging,0.960212,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+jogging (butt-kicks),0.955556,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+jogging (rotating arms),0.934625,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+jogging (sidesteps),0.979499,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+jogging (skipping),0.928571,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+lunges,0.518033,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+lunges (complex),0.836449,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+push-ups,0.767773,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+push-ups (complex),0.684366,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+sit-ups,0.925532,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+sit-ups (complex),0.916479,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+stretching (hamstrings),0.950392,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+stretching (lumbar rotation),0.961353,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+stretching (lunging),0.853012,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+stretching (shoulders),0.560554,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+stretching (triceps),0.933985,50,loso_sbj_11,logs/deepconvlstm/50hz/loso_sbj_11/per_class_metrics_loso_sbj_11.csv
+null,0.619987,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+bench-dips,0.800875,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+burpees,0.608696,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+jogging,0.965347,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+jogging (butt-kicks),0.898630,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+jogging (rotating arms),0.819945,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+jogging (sidesteps),0.933333,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+jogging (skipping),0.920482,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+lunges,0.557875,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+lunges (complex),0.438596,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+push-ups,0.273016,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+push-ups (complex),0.423818,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+sit-ups,0.829932,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+sit-ups (complex),0.686007,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+stretching (hamstrings),0.378099,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+stretching (lumbar rotation),0.969849,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+stretching (lunging),0.700173,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+stretching (shoulders),0.830357,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+stretching (triceps),0.886256,6,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_6hz.csv
+null,0.703913,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+bench-dips,0.850856,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+burpees,0.620347,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+jogging,0.982456,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+jogging (butt-kicks),0.909574,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+jogging (rotating arms),0.926254,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+jogging (sidesteps),0.925065,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+jogging (skipping),0.928571,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+lunges,0.529981,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+lunges (complex),0.337950,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+push-ups,0.148148,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+push-ups (complex),0.288660,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+sit-ups,0.836689,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+sit-ups (complex),0.695353,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+stretching (hamstrings),0.495979,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+stretching (lumbar rotation),0.941476,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+stretching (lunging),0.707965,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+stretching (shoulders),0.840909,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+stretching (triceps),0.878505,12,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_12hz.csv
+null,0.751437,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+bench-dips,0.850856,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+burpees,0.637838,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+jogging,0.980000,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+jogging (butt-kicks),0.897098,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+jogging (rotating arms),0.922190,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+jogging (sidesteps),0.935829,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+jogging (skipping),0.942308,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+lunges,0.507338,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+lunges (complex),0.402010,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+push-ups,0.208835,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+push-ups (complex),0.250549,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+sit-ups,0.817552,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+sit-ups (complex),0.689775,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+stretching (hamstrings),0.607261,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+stretching (lumbar rotation),0.916667,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+stretching (lunging),0.741284,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+stretching (shoulders),0.852535,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+stretching (triceps),0.878505,25,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12_25hz.csv
+null,0.773942,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+bench-dips,0.847880,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+burpees,0.601626,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+jogging,0.965686,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+jogging (butt-kicks),0.845771,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+jogging (rotating arms),0.888889,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+jogging (sidesteps),0.961111,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+jogging (skipping),0.928910,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+lunges,0.511247,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+lunges (complex),0.388601,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+push-ups,0.470024,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+push-ups (complex),0.347188,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+sit-ups,0.778243,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+sit-ups (complex),0.673004,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+stretching (hamstrings),0.712062,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+stretching (lumbar rotation),0.925743,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+stretching (lunging),0.759036,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+stretching (shoulders),0.818792,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+stretching (triceps),0.923833,50,loso_sbj_12,logs/deepconvlstm/50hz/loso_sbj_12/per_class_metrics_loso_sbj_12.csv
+null,0.762149,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+bench-dips,0.719665,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+burpees,0.410323,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+jogging,0.848739,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+jogging (butt-kicks),0.807692,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+jogging (rotating arms),0.683036,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+jogging (sidesteps),0.911765,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+jogging (skipping),0.816327,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+lunges,0.631799,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+lunges (complex),0.706935,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+push-ups,0.103448,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+push-ups (complex),0.529221,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+sit-ups,0.834382,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+sit-ups (complex),0.843049,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+stretching (hamstrings),0.961440,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+stretching (lumbar rotation),0.883495,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+stretching (lunging),0.561457,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+stretching (shoulders),0.819095,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+stretching (triceps),0.823045,6,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_6hz.csv
+null,0.797716,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+bench-dips,0.705314,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+burpees,0.489362,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+jogging,0.891170,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+jogging (butt-kicks),0.865823,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+jogging (rotating arms),0.830918,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+jogging (sidesteps),0.961440,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+jogging (skipping),0.867052,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+lunges,0.738739,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+lunges (complex),0.773270,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+push-ups,0.315574,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+push-ups (complex),0.583190,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+sit-ups,0.823529,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+sit-ups (complex),0.813333,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+stretching (hamstrings),0.895288,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+stretching (lumbar rotation),0.928571,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+stretching (lunging),0.554217,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+stretching (shoulders),0.873684,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+stretching (triceps),0.889868,12,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_12hz.csv
+null,0.804337,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+bench-dips,0.654054,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+burpees,0.570922,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+jogging,0.823970,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+jogging (butt-kicks),0.832930,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+jogging (rotating arms),0.704301,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+jogging (sidesteps),0.937343,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+jogging (skipping),0.855491,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+lunges,0.714876,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+lunges (complex),0.755981,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+push-ups,0.377358,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+push-ups (complex),0.632184,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+sit-ups,0.824561,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+sit-ups (complex),0.825688,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+stretching (hamstrings),0.816092,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+stretching (lumbar rotation),0.928571,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+stretching (lunging),0.565749,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+stretching (shoulders),0.890080,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+stretching (triceps),0.884026,25,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13_25hz.csv
+null,0.824054,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+bench-dips,0.843902,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+burpees,0.637236,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+jogging,0.922414,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+jogging (butt-kicks),0.937330,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+jogging (rotating arms),0.918919,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+jogging (sidesteps),0.966581,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+jogging (skipping),0.928962,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+lunges,0.748768,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+lunges (complex),0.836538,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+push-ups,0.199678,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+push-ups (complex),0.566553,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+sit-ups,0.820513,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+sit-ups (complex),0.809735,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+stretching (hamstrings),0.966408,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+stretching (lumbar rotation),0.930946,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+stretching (lunging),0.586710,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+stretching (shoulders),0.848329,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+stretching (triceps),0.884354,50,loso_sbj_13,logs/deepconvlstm/50hz/loso_sbj_13/per_class_metrics_loso_sbj_13.csv
+null,0.649527,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+bench-dips,0.682997,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+burpees,0.515068,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+jogging,0.616794,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+jogging (butt-kicks),0.703593,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+jogging (rotating arms),0.678534,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+jogging (sidesteps),0.839367,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+jogging (skipping),0.575980,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+lunges,0.394979,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+lunges (complex),0.576058,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+push-ups,0.198783,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+push-ups (complex),0.470305,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+sit-ups,0.546201,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+sit-ups (complex),0.682603,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+stretching (hamstrings),0.593116,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+stretching (lumbar rotation),0.831878,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+stretching (lunging),0.748634,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+stretching (shoulders),0.623134,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+stretching (triceps),0.837327,6,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_6hz.csv
+null,0.698038,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+bench-dips,0.616564,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+burpees,0.595169,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+jogging,0.710526,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+jogging (butt-kicks),0.795784,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+jogging (rotating arms),0.772881,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+jogging (sidesteps),0.893157,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+jogging (skipping),0.726008,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+lunges,0.407866,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+lunges (complex),0.582178,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+push-ups,0.330935,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+push-ups (complex),0.504155,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+sit-ups,0.508403,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+sit-ups (complex),0.657971,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+stretching (hamstrings),0.615686,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+stretching (lumbar rotation),0.838852,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+stretching (lunging),0.766284,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+stretching (shoulders),0.656934,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+stretching (triceps),0.844737,12,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_12hz.csv
+null,0.687745,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+bench-dips,0.626959,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+burpees,0.522671,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+jogging,0.775000,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+jogging (butt-kicks),0.774775,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+jogging (rotating arms),0.787946,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+jogging (sidesteps),0.873536,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+jogging (skipping),0.735043,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+lunges,0.392384,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+lunges (complex),0.575342,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+push-ups,0.218058,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+push-ups (complex),0.483721,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+sit-ups,0.493534,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+sit-ups (complex),0.647929,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+stretching (hamstrings),0.575068,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+stretching (lumbar rotation),0.877598,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+stretching (lunging),0.696742,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+stretching (shoulders),0.675297,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+stretching (triceps),0.839378,25,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14_25hz.csv
+null,0.689252,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+bench-dips,0.744186,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+burpees,0.568720,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+jogging,0.757895,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+jogging (butt-kicks),0.851485,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+jogging (rotating arms),0.745098,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+jogging (sidesteps),0.914710,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+jogging (skipping),0.696183,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+lunges,0.394213,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+lunges (complex),0.591093,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+push-ups,0.138940,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+push-ups (complex),0.498423,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+sit-ups,0.563107,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+sit-ups (complex),0.719276,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+stretching (hamstrings),0.629273,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+stretching (lumbar rotation),0.835359,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+stretching (lunging),0.743972,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+stretching (shoulders),0.652981,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+stretching (triceps),0.866337,50,loso_sbj_14,logs/deepconvlstm/50hz/loso_sbj_14/per_class_metrics_loso_sbj_14.csv
+null,0.701195,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+bench-dips,0.427481,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+burpees,0.573055,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+jogging,0.966752,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+jogging (butt-kicks),0.880829,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+jogging (rotating arms),0.847826,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+jogging (sidesteps),0.932039,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+jogging (skipping),0.879747,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+lunges,0.151625,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+lunges (complex),0.756614,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+push-ups,0.661479,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+push-ups (complex),0.280822,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+sit-ups,0.724947,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+sit-ups (complex),0.593220,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+stretching (hamstrings),0.586667,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+stretching (lumbar rotation),0.862471,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+stretching (lunging),0.908425,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+stretching (shoulders),0.802495,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+stretching (triceps),0.000000,6,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_6hz.csv
+null,0.700094,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+bench-dips,0.218341,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+burpees,0.653659,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+jogging,0.970976,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+jogging (butt-kicks),0.953678,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+jogging (rotating arms),0.940898,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+jogging (sidesteps),0.932715,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+jogging (skipping),0.941538,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+lunges,0.000000,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+lunges (complex),0.812339,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+push-ups,0.605310,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+push-ups (complex),0.257485,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+sit-ups,0.694045,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+sit-ups (complex),0.536145,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+stretching (hamstrings),0.633600,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+stretching (lumbar rotation),0.833333,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+stretching (lunging),0.889286,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+stretching (shoulders),0.821277,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+stretching (triceps),0.000000,12,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_12hz.csv
+null,0.728608,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+bench-dips,0.072165,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+burpees,0.707763,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+jogging,0.989637,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+jogging (butt-kicks),0.934037,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+jogging (rotating arms),0.964029,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+jogging (sidesteps),0.937355,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+jogging (skipping),0.939394,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+lunges,0.299270,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+lunges (complex),0.839895,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+push-ups,0.619403,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+push-ups (complex),0.346369,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+sit-ups,0.718447,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+sit-ups (complex),0.516340,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+stretching (hamstrings),0.594595,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+stretching (lumbar rotation),0.861111,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+stretching (lunging),0.920223,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+stretching (shoulders),0.823028,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+stretching (triceps),0.000000,25,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15_25hz.csv
+null,0.785468,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+bench-dips,0.336134,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+burpees,0.767196,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+jogging,0.987013,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+jogging (butt-kicks),0.923885,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+jogging (rotating arms),0.958838,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+jogging (sidesteps),0.941452,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+jogging (skipping),0.941176,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+lunges,0.237548,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+lunges (complex),0.670886,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+push-ups,0.536892,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+push-ups (complex),0.335165,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+sit-ups,0.656000,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+sit-ups (complex),0.501548,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+stretching (hamstrings),0.819328,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+stretching (lumbar rotation),0.970833,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+stretching (lunging),0.762195,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+stretching (shoulders),0.883295,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+stretching (triceps),0.000000,50,loso_sbj_15,logs/deepconvlstm/50hz/loso_sbj_15/per_class_metrics_loso_sbj_15.csv
+null,0.693813,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+bench-dips,0.842593,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+burpees,0.525050,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+jogging,0.835322,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+jogging (butt-kicks),0.901099,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+jogging (rotating arms),0.770449,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+jogging (sidesteps),0.901042,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+jogging (skipping),0.910486,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+lunges,0.537778,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+lunges (complex),0.881443,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+push-ups,0.602353,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+push-ups (complex),0.744479,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+sit-ups,0.581454,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+sit-ups (complex),0.419426,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+stretching (hamstrings),0.612960,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+stretching (lumbar rotation),0.893023,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+stretching (lunging),0.813278,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+stretching (shoulders),0.520710,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+stretching (triceps),0.910448,6,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_6hz.csv
+null,0.735008,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+bench-dips,0.831050,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+burpees,0.536765,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+jogging,0.830769,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+jogging (butt-kicks),0.927835,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+jogging (rotating arms),0.829016,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+jogging (sidesteps),0.895833,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+jogging (skipping),0.963918,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+lunges,0.583942,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+lunges (complex),0.854271,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+push-ups,0.546032,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+push-ups (complex),0.757732,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+sit-ups,0.513393,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+sit-ups (complex),0.448316,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+stretching (hamstrings),0.632327,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+stretching (lumbar rotation),0.907801,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+stretching (lunging),0.820833,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+stretching (shoulders),0.677686,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+stretching (triceps),0.960212,12,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_12hz.csv
+null,0.733300,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+bench-dips,0.872902,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+burpees,0.579477,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+jogging,0.692537,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+jogging (butt-kicks),0.907692,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+jogging (rotating arms),0.779279,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+jogging (sidesteps),0.894602,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+jogging (skipping),0.959184,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+lunges,0.601562,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+lunges (complex),0.784810,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+push-ups,0.546667,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+push-ups (complex),0.719818,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+sit-ups,0.516279,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+sit-ups (complex),0.458432,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+stretching (hamstrings),0.602076,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+stretching (lumbar rotation),0.916865,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+stretching (lunging),0.810591,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+stretching (shoulders),0.612987,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+stretching (triceps),0.957447,25,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16_25hz.csv
+null,0.736345,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+bench-dips,0.850467,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+burpees,0.570231,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+jogging,0.811083,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+jogging (butt-kicks),0.874693,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+jogging (rotating arms),0.837905,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+jogging (sidesteps),0.904884,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+jogging (skipping),0.961440,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+lunges,0.693878,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+lunges (complex),0.855721,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+push-ups,0.602597,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+push-ups (complex),0.767045,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+sit-ups,0.563380,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+sit-ups (complex),0.428571,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+stretching (hamstrings),0.688588,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+stretching (lumbar rotation),0.909524,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+stretching (lunging),0.852248,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+stretching (shoulders),0.646853,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+stretching (triceps),0.932642,50,loso_sbj_16,logs/deepconvlstm/50hz/loso_sbj_16/per_class_metrics_loso_sbj_16.csv
+null,0.590679,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+bench-dips,0.752475,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+burpees,0.516443,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+jogging,0.975369,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+jogging (butt-kicks),0.900270,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+jogging (rotating arms),0.865526,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+jogging (sidesteps),0.841823,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+jogging (skipping),0.785000,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+lunges,0.583732,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+lunges (complex),0.827068,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+push-ups,0.641618,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+push-ups (complex),0.029412,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+sit-ups,0.531571,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+sit-ups (complex),0.365508,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+stretching (hamstrings),0.860520,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+stretching (lumbar rotation),0.662273,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+stretching (lunging),0.822430,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+stretching (shoulders),0.741201,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+stretching (triceps),0.925208,6,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_6hz.csv
+null,0.611233,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+bench-dips,0.770791,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+burpees,0.616296,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+jogging,0.982630,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+jogging (butt-kicks),0.947945,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+jogging (rotating arms),0.952381,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+jogging (sidesteps),0.850394,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+jogging (skipping),0.819512,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+lunges,0.663317,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+lunges (complex),0.819672,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+push-ups,0.711688,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+push-ups (complex),0.018957,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+sit-ups,0.426887,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+sit-ups (complex),0.441379,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+stretching (hamstrings),0.853881,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+stretching (lumbar rotation),0.670000,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+stretching (lunging),0.899497,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+stretching (shoulders),0.768577,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+stretching (triceps),0.904110,12,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_12hz.csv
+null,0.623256,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+bench-dips,0.772358,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+burpees,0.571042,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+jogging,0.982630,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+jogging (butt-kicks),0.949602,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+jogging (rotating arms),0.959596,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+jogging (sidesteps),0.839050,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+jogging (skipping),0.829146,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+lunges,0.586957,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+lunges (complex),0.791569,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+push-ups,0.282258,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+push-ups (complex),0.019608,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+sit-ups,0.430288,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+sit-ups (complex),0.442142,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+stretching (hamstrings),0.867580,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+stretching (lumbar rotation),0.705061,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+stretching (lunging),0.904040,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+stretching (shoulders),0.812500,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+stretching (triceps),0.914601,25,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17_25hz.csv
+null,0.624636,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+bench-dips,0.769231,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+burpees,0.687708,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+jogging,0.980100,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+jogging (butt-kicks),0.949062,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+jogging (rotating arms),0.959799,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+jogging (sidesteps),0.822581,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+jogging (skipping),0.821782,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+lunges,0.710638,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+lunges (complex),0.795580,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+push-ups,0.819742,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+push-ups (complex),0.000000,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+sit-ups,0.461146,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+sit-ups (complex),0.293981,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+stretching (hamstrings),0.931646,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+stretching (lumbar rotation),0.926606,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+stretching (lunging),0.894472,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+stretching (shoulders),0.786813,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+stretching (triceps),0.911602,50,loso_sbj_17,logs/deepconvlstm/50hz/loso_sbj_17/per_class_metrics_loso_sbj_17.csv
+null,0.699571,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+bench-dips,0.691630,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+burpees,0.614943,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+jogging,0.971751,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+jogging (butt-kicks),0.854167,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+jogging (rotating arms),0.823219,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+jogging (sidesteps),0.834951,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+jogging (skipping),0.755656,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+lunges,0.284960,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+lunges (complex),0.520635,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+push-ups,0.700820,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+push-ups (complex),0.708075,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+sit-ups,0.000000,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+sit-ups (complex),0.538922,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+stretching (hamstrings),0.350515,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+stretching (lumbar rotation),0.832151,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+stretching (lunging),0.561354,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+stretching (shoulders),0.782407,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+stretching (triceps),0.632603,6,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_6hz.csv
+null,0.720000,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+bench-dips,0.209205,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+burpees,0.596610,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+jogging,0.978022,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+jogging (butt-kicks),0.708171,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+jogging (rotating arms),0.899471,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+jogging (sidesteps),0.796053,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+jogging (skipping),0.757112,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+lunges,0.342995,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+lunges (complex),0.454545,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+push-ups,0.674651,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+push-ups (complex),0.666667,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+sit-ups,0.000000,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+sit-ups (complex),0.531120,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+stretching (hamstrings),0.334802,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+stretching (lumbar rotation),0.791011,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+stretching (lunging),0.579795,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+stretching (shoulders),0.819843,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+stretching (triceps),0.205980,12,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_12hz.csv
+null,0.717775,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+bench-dips,0.010363,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+burpees,0.585987,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+jogging,0.980926,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+jogging (butt-kicks),0.737226,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+jogging (rotating arms),0.934783,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+jogging (sidesteps),0.790541,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+jogging (skipping),0.798301,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+lunges,0.386308,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+lunges (complex),0.437276,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+push-ups,0.655556,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+push-ups (complex),0.668852,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+sit-ups,0.000000,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+sit-ups (complex),0.554415,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+stretching (hamstrings),0.361502,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+stretching (lumbar rotation),0.807339,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+stretching (lunging),0.635332,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+stretching (shoulders),0.808743,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+stretching (triceps),0.157534,25,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18_25hz.csv
+null,0.678592,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+bench-dips,0.160338,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+burpees,0.565916,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+jogging,0.978261,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+jogging (butt-kicks),0.723735,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+jogging (rotating arms),0.886010,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+jogging (sidesteps),0.789298,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+jogging (skipping),0.802721,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+lunges,0.392157,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+lunges (complex),0.504732,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+push-ups,0.639456,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+push-ups (complex),0.700297,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+sit-ups,0.000000,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+sit-ups (complex),0.463895,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+stretching (hamstrings),0.318725,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+stretching (lumbar rotation),0.794582,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+stretching (lunging),0.646204,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+stretching (shoulders),0.805970,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+stretching (triceps),0.614610,50,loso_sbj_18,logs/deepconvlstm/50hz/loso_sbj_18/per_class_metrics_loso_sbj_18.csv
+null,0.766444,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+bench-dips,0.708955,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+burpees,0.783217,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+jogging,0.960961,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+jogging (butt-kicks),0.863905,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+jogging (rotating arms),0.900850,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+jogging (sidesteps),0.919075,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+jogging (skipping),0.867816,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+lunges,0.783951,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+lunges (complex),0.842391,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+push-ups,0.851541,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+push-ups (complex),0.842809,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+sit-ups,0.906077,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+sit-ups (complex),0.898462,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+stretching (hamstrings),0.954802,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+stretching (lumbar rotation),0.936556,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+stretching (lunging),0.868966,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+stretching (shoulders),0.836186,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+stretching (triceps),0.940845,6,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_6hz.csv
+null,0.787570,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+bench-dips,0.612245,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+burpees,0.799076,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+jogging,0.963855,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+jogging (butt-kicks),0.926829,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+jogging (rotating arms),0.958678,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+jogging (sidesteps),0.958084,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+jogging (skipping),0.942249,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+lunges,0.768254,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+lunges (complex),0.854795,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+push-ups,0.859649,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+push-ups (complex),0.865772,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+sit-ups,0.924370,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+sit-ups (complex),0.905775,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+stretching (hamstrings),0.946479,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+stretching (lumbar rotation),0.939394,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+stretching (lunging),0.884706,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+stretching (shoulders),0.841076,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+stretching (triceps),0.965318,12,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_12hz.csv
+null,0.794495,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+bench-dips,0.621514,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+burpees,0.786364,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+jogging,0.969697,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+jogging (butt-kicks),0.926829,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+jogging (rotating arms),0.977273,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+jogging (sidesteps),0.939481,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+jogging (skipping),0.923547,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+lunges,0.730159,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+lunges (complex),0.805195,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+push-ups,0.849558,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+push-ups (complex),0.860927,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+sit-ups,0.921348,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+sit-ups (complex),0.876190,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+stretching (hamstrings),0.923077,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+stretching (lumbar rotation),0.942249,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+stretching (lunging),0.929095,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+stretching (shoulders),0.887728,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+stretching (triceps),0.979351,25,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19_25hz.csv
+null,0.807675,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+bench-dips,0.653846,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+burpees,0.822660,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+jogging,0.962733,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+jogging (butt-kicks),0.915254,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+jogging (rotating arms),0.960000,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+jogging (sidesteps),0.964072,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+jogging (skipping),0.939481,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+lunges,0.777480,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+lunges (complex),0.846377,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+push-ups,0.836676,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+push-ups (complex),0.860000,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+sit-ups,0.926966,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+sit-ups (complex),0.922619,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+stretching (hamstrings),0.954802,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+stretching (lumbar rotation),0.948012,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+stretching (lunging),0.922330,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+stretching (shoulders),0.896552,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+stretching (triceps),0.973607,50,loso_sbj_19,logs/deepconvlstm/50hz/loso_sbj_19/per_class_metrics_loso_sbj_19.csv
+null,0.598792,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+bench-dips,0.964286,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+burpees,0.752475,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+jogging,0.891455,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+jogging (butt-kicks),0.843931,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+jogging (rotating arms),0.884319,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+jogging (sidesteps),0.983696,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+jogging (skipping),0.796992,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+lunges,0.840206,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+lunges (complex),0.523077,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+push-ups,0.195349,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+push-ups (complex),0.649728,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+sit-ups,0.759124,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+sit-ups (complex),0.877828,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+stretching (hamstrings),0.966102,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+stretching (lumbar rotation),0.986807,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+stretching (lunging),0.680702,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+stretching (shoulders),0.530769,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+stretching (triceps),0.989637,6,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_6hz.csv
+null,0.647887,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+bench-dips,0.970060,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+burpees,0.816754,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+jogging,0.983051,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+jogging (butt-kicks),0.985994,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+jogging (rotating arms),0.934426,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+jogging (sidesteps),0.983696,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+jogging (skipping),0.944000,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+lunges,0.803970,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+lunges (complex),0.577778,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+push-ups,0.337449,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+push-ups (complex),0.698113,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+sit-ups,0.715953,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+sit-ups (complex),0.852747,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+stretching (hamstrings),0.947368,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+stretching (lumbar rotation),0.984211,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+stretching (lunging),0.723549,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+stretching (shoulders),0.462151,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+stretching (triceps),0.997389,12,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_12hz.csv
+null,0.631224,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+bench-dips,0.978852,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+burpees,0.807107,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+jogging,0.980676,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+jogging (butt-kicks),0.956757,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+jogging (rotating arms),0.945055,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+jogging (sidesteps),0.989130,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+jogging (skipping),0.954178,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+lunges,0.811083,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+lunges (complex),0.615942,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+push-ups,0.117647,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+push-ups (complex),0.657194,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+sit-ups,0.779412,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+sit-ups (complex),0.843956,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+stretching (hamstrings),0.944751,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+stretching (lumbar rotation),0.986807,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+stretching (lunging),0.738255,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+stretching (shoulders),0.388430,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+stretching (triceps),0.992167,25,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20_25hz.csv
+null,0.677205,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+bench-dips,0.961424,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+burpees,0.787402,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+jogging,0.935323,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+jogging (butt-kicks),0.922252,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+jogging (rotating arms),0.890625,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+jogging (sidesteps),0.989011,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+jogging (skipping),0.947674,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+lunges,0.846348,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+lunges (complex),0.686667,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+push-ups,0.855643,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+push-ups (complex),0.829517,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+sit-ups,0.917197,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+sit-ups (complex),0.905109,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+stretching (hamstrings),0.934066,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+stretching (lumbar rotation),0.976501,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+stretching (lunging),0.664286,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+stretching (shoulders),0.421488,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+stretching (triceps),0.978723,50,loso_sbj_20,logs/deepconvlstm/50hz/loso_sbj_20/per_class_metrics_loso_sbj_20.csv
+null,0.658839,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+bench-dips,0.676660,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+burpees,0.586207,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+jogging,0.984293,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+jogging (butt-kicks),0.726619,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+jogging (rotating arms),0.852273,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+jogging (sidesteps),0.944591,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+jogging (skipping),0.817337,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+lunges,0.522472,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+lunges (complex),0.875346,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+push-ups,0.422330,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+push-ups (complex),0.647773,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+sit-ups,0.810304,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+sit-ups (complex),0.791328,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+stretching (hamstrings),0.423529,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+stretching (lumbar rotation),0.726852,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+stretching (lunging),0.750533,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+stretching (shoulders),0.797136,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+stretching (triceps),0.935484,6,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_6hz.csv
+null,0.671973,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+bench-dips,0.710112,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+burpees,0.648752,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+jogging,0.971576,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+jogging (butt-kicks),0.791789,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+jogging (rotating arms),0.927374,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+jogging (sidesteps),0.959569,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+jogging (skipping),0.940351,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+lunges,0.542056,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+lunges (complex),0.865922,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+push-ups,0.297994,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+push-ups (complex),0.593640,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+sit-ups,0.810680,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+sit-ups (complex),0.813648,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+stretching (hamstrings),0.345499,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+stretching (lumbar rotation),0.715262,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+stretching (lunging),0.728778,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+stretching (shoulders),0.850515,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+stretching (triceps),0.935733,12,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_12hz.csv
+null,0.694381,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+bench-dips,0.716553,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+burpees,0.647940,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+jogging,0.981723,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+jogging (butt-kicks),0.846847,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+jogging (rotating arms),0.952113,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+jogging (sidesteps),0.970027,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+jogging (skipping),0.927336,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+lunges,0.573864,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+lunges (complex),0.833787,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+push-ups,0.336336,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+push-ups (complex),0.646035,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+sit-ups,0.863636,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+sit-ups (complex),0.844444,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+stretching (hamstrings),0.550107,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+stretching (lumbar rotation),0.852459,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+stretching (lunging),0.756410,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+stretching (shoulders),0.848168,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+stretching (triceps),0.942708,25,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21_25hz.csv
+null,0.732759,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+bench-dips,0.708520,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+burpees,0.695455,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+jogging,0.981530,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+jogging (butt-kicks),0.887538,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+jogging (rotating arms),0.946479,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+jogging (sidesteps),0.944000,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+jogging (skipping),0.927336,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+lunges,0.634831,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+lunges (complex),0.883041,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+push-ups,0.172107,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+push-ups (complex),0.547842,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+sit-ups,0.851948,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+sit-ups (complex),0.836186,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+stretching (hamstrings),0.416244,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+stretching (lumbar rotation),0.751196,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+stretching (lunging),0.776699,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+stretching (shoulders),0.815725,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv
+stretching (triceps),0.912568,50,loso_sbj_21,logs/deepconvlstm/50hz/loso_sbj_21/per_class_metrics_loso_sbj_21.csv

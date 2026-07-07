@@ -1,0 +1,32 @@
+\begin{table}[H]
+  \centering
+  \caption{Per-activity sensitivity to the sampling rate on WEAR using the continuous-convolution DeepConvLSTM single-checkpoint model without Gamma. Values are mean per-class $F_1$ across 22 LOSO subjects. ``$F_1$ trade-off'' denotes the gain of the activity-optimal sampling rate over $50$\,Hz, and is zero when $50$\,Hz is optimal.}
+  \label{tab:freq_perclass_wear_continuous_single_nogamma}
+  \begin{tabular}{lcccccc}
+    \toprule
+    Activity & $F_1$@6 & $F_1$@12 & $F_1$@25 & $F_1$@50 & Trade-off & Opt.\ rate \\
+    \midrule
+    null                           & 0.647 & \textbf{0.680} & \textbf{0.690} & \textbf{0.683} & 0.007 & 25 Hz \\
+    bench-dips                     & 0.615 & 0.581 & 0.565 & \textbf{0.641} & 0.000 & 50 Hz \\
+    burpees                        & 0.551 & \textbf{0.591} & \textbf{0.603} & \textbf{0.584} & 0.019 & 25 Hz \\
+    jogging                        & 0.815 & 0.834 & 0.831 & \textbf{0.863} & 0.000 & 50 Hz \\
+    jogging (butt-kicks)           & 0.740 & \textbf{0.785} & 0.776 & \textbf{0.802} & 0.000 & 50 Hz \\
+    jogging (rotating arms)        & 0.697 & 0.772 & \textbf{0.774} & \textbf{0.792} & 0.000 & 50 Hz \\
+    jogging (sidesteps)            & 0.858 & \textbf{0.868} & \textbf{0.871} & \textbf{0.885} & 0.000 & 50 Hz \\
+    jogging (skipping)             & 0.767 & 0.831 & 0.828 & \textbf{0.852} & 0.000 & 50 Hz \\
+    lunges                         & 0.496 & 0.515 & \textbf{0.536} & \textbf{0.542} & 0.000 & 50 Hz \\
+    lunges (complex)               & \textbf{0.622} & \textbf{0.621} & \textbf{0.628} & \textbf{0.641} & 0.000 & 50 Hz \\
+    push-ups                       & 0.510 & 0.506 & 0.466 & \textbf{0.576} & 0.000 & 50 Hz \\
+    push-ups (complex)             & \textbf{0.579} & \textbf{0.578} & 0.572 & \textbf{0.597} & 0.000 & 50 Hz \\
+    sit-ups                        & \textbf{0.660} & 0.635 & 0.631 & \textbf{0.662} & 0.000 & 50 Hz \\
+    sit-ups (complex)              & \textbf{0.675} & \textbf{0.676} & \textbf{0.675} & \textbf{0.662} & 0.014 & 12 Hz \\
+    stretching (hamstrings)        & 0.691 & 0.677 & 0.674 & \textbf{0.728} & 0.000 & 50 Hz \\
+    stretching (lumbar rotation)   & \textbf{0.851} & 0.845 & \textbf{0.853} & \textbf{0.871} & 0.000 & 50 Hz \\
+    stretching (lunging)           & 0.677 & \textbf{0.694} & \textbf{0.701} & \textbf{0.700} & 0.001 & 25 Hz \\
+    stretching (shoulders)         & \textbf{0.650} & 0.647 & \textbf{0.660} & \textbf{0.669} & 0.000 & 50 Hz \\
+    stretching (triceps)           & 0.771 & 0.759 & 0.760 & \textbf{0.827} & 0.000 & 50 Hz \\
+    \midrule
+    Macro mean                     & 0.678 & 0.689 & 0.689 & \textbf{0.715} & 0.000 & 50 Hz \\
+    \bottomrule
+  \end{tabular}
+\end{table}

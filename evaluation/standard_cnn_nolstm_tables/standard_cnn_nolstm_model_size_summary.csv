@@ -1,0 +1,5 @@
+rate_hz,example_checkpoint,params,fp32_mb,four_bit_mb_est,checkpoint_file_mb,has_lstm_keys,has_classifier_keys,has_cnn_classifier_keys,has_branch_keys,has_gamma_or_quant_keys,num_lstm_keys,num_branch_keys,num_gamma_or_quant_keys
+6,logs/deepconvlstm/standard_cnn_nolstm/6hz/loso_sbj_0/best_loso_sbj_0.pth.tar,39571,0.158284,0.0197855,0.487598,False,False,True,False,False,0,0,0
+12,logs/deepconvlstm/standard_cnn_nolstm/12hz/loso_sbj_0/best_loso_sbj_0.pth.tar,51923,0.207692,0.0259615,0.635822,False,False,True,False,False,0,0,0
+25,logs/deepconvlstm/standard_cnn_nolstm/25hz/loso_sbj_0/best_loso_sbj_0.pth.tar,101331,0.405324,0.0506655,1.228718,False,False,True,False,False,0,0,0
+50,logs/deepconvlstm/standard_cnn_nolstm/50hz/loso_sbj_0/best_loso_sbj_0.pth.tar,126035,0.50414,0.0630175,1.525166,False,False,True,False,False,0,0,0
