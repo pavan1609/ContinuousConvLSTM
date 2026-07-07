@@ -1,7 +1,5 @@
 # SLURM jobs
 
-One launcher per config, mirroring `configs/` exactly:
-
 ```text
 jobs/<Architecture>/<DATASET>/<config-name>.slurm   # LOSO array job (1 task per held-out subject)
 jobs/KernelSweep/<dataset>_kernel_sweep.slurm       # discrete k_t sweep for Fig. 4
