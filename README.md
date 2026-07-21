@@ -73,17 +73,6 @@ needs no changes. Training uses Adam (lr 1e-4, weight decay 1e-6, step decay 0.9
 10 epochs), 30 epochs, class-weighted cross-entropy, per-channel normalisation from
 training statistics only.
 
-## Reproducing the paper's claims
-
-| Paper artifact | Train with | Aggregate with |
-|---|---|---|
-| Table 1 / Sec. 4 — per-rate DeepConvLSTM vs. pure CNN (WEAR) | `jobs/DeepConvLSTM/WEAR/*hz.slurm`, `jobs/PureCNN/WEAR/*hz.slurm` | `evaluation/standard_cnn_tables/`, `evaluation/standard_cnn_nolstm_tables/`, `evaluation/lstm_vs_cnn_tables/` |
-| Fig. 4 — discrete kernel sweep vs. ContinuousConv (all datasets) | `jobs/KernelSweep/*.slurm` + `jobs/ContinuousConvLSTM/*/[rate].slurm` | `evaluation/collect_kernel_sweep.py`, `evaluation/plot_kernel_sweep_combined_3dataset_paper.py` |
-| Table 4 / RQ2 — single-checkpoint ContinuousConvLSTM across rates | `jobs/ContinuousConvLSTM/{WEAR,RWHAR,WISDM_WATCH}/*_multirate.slurm` | `evaluation/continuous_single_no_gamma_tables/`, `evaluation/aggregate_macro_metrics.py` |
-| Appendix A — LSTM-vs-CNN per activity (RealWorld-HAR, WISDM-watch) | `jobs/DeepConvLSTM/{RWHAR,WISDM_WATCH}/*hz.slurm`, `jobs/PureCNN/{RWHAR,WISDM_WATCH}/*hz.slurm` | `evaluation/lstm_vs_cnn_tables/collect_lstm_vs_cnn_*_from_logs.py` |
-| Appendix C — single-branch vs. multi-branch | `jobs/Ablations/SingleBranch/*.slurm` | `evaluation/aggregate_macro_metrics.py` |
-| Optimal-rate-per-activity analysis | (uses the runs above) | `evaluation/aggregate_optimal_frequency.py`, `evaluation/choose_frequency_tradeoff.py` |
-
 Model variants are selected purely by config keys — `conv_type`
 (`standard`, `standard_multibranch`, `continuous`, `continuous_single`),
 `temporal_head` (`lstm`, `cnn`) and `multirate_training` — all handled by
