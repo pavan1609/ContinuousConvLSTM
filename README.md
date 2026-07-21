@@ -27,8 +27,6 @@ The code supports:
 - LOSO evaluation;
 - per-activity and aggregate metric generation.
 
-Gamma Quantization is not part of this release or the reported paper ablations.
-
 ---
 
 ## 1. Repository structure
